@@ -1,0 +1,12 @@
+## Instalacao do Angular
+- npm install -g @angular/cli
+
+## Instalacao Ionic 5.2.4
+- npm install -g @ionic/angular@5.9.4
+- npm install @ionic/angular@5.9.4
+- npm install -g ionic
+## Mockar Api 
+- Mockoon
+
+# Iniciando o projeto com Ionic
+- ionic start eshop blank
